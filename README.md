@@ -2,6 +2,18 @@
 
 This project is a User Management System built with Laravel and MySQL. It includes basic CRUD operations for user management and a RESTful API that allows for the creation, reading, updating, and deletion of users.
 
+## Known Issues and Unfinished Features
+
+- **Advanced Features**:
+  - I have attempted to implement request validation using **Laravel Form Requests**, but there might be some issues with the current validation setup.
+  - **API documentation using Swagger** was attempted but encountered some bugs. The documentation may not be fully functional at the moment.
+  
+- **Excel Export**:
+  - This feature has not yet been implemented.
+
+Despite the challenges with the advanced features, I have successfully completed the majority of the required functionalities, including CRUD operations, user management, and the RESTful API for managing users.
+
+
 ## Project Setup
 
 Follow these steps to set up the project on your local machine:
